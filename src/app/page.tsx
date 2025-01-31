@@ -1,9 +1,9 @@
-import Test from "./component/Test";
+import InterviewPortal from "./component/InterviewPortal.jsx";
 
 export default function Home() {
   return (
     <>
-      <Test />
+      <InterviewPortal />
     </>
   );
 }
